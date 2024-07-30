@@ -56,4 +56,4 @@ Folder `img` di dalam folder `assets` digunakan untuk menyimpan semua gambar yan
 **Date**: Jul 22, 2023
 
 **Original Repository**:\
-https://github.com/azkacrows/k-rose-bootcamp
+[K-Kose Bootcamp](https://github.com/azkacrows/Latihan-Bootcamp/tree/main/Dicoding/submission/K-Rose%20Proyek%20Dicoding)
